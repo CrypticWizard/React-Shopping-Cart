@@ -1,0 +1,46 @@
+.home-container {
+	height: 88vh;
+	background-image: url(../assets/home-bg.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-size: 100%;
+	overflow: hidden;
+}
+
+.home-body {
+	width: 32%;
+	position: relative;
+	top: 20%;
+	left: 5%;
+	font-size: 2em;
+	font-weight: bolder;
+	word-wrap: break-word;
+}
+
+.home-body button {
+	cursor: pointer;
+	padding: 1em;
+	width: 40%;
+	font-size: 1rem;
+	font-weight: bold;
+	margin-top: 30px;
+	outline: none;
+	background-color: rgba(255, 71, 2, 0.7);
+	border: none;
+	outline: none;
+	color: white;
+}
+
+#borderLeft {
+	border-bottom: 2px solid #f51c40;
+	width: 70%;
+	margin-top: 8px;
+}
+
+.home-banner p {
+	font-size: 1em;
+	font-weight: lighter;
+	margin-top: -60px;
+	margin-left: 0px;
+}

@@ -1,0 +1,13 @@
+.product {
+	margin: auto;
+}
+
+.product h1,
+p {
+	margin: 5px 20px;
+}
+
+.product-grid img {
+	max-width: 400px;
+	height: auto;
+}
